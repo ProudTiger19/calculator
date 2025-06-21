@@ -1,8 +1,18 @@
 body{
     text-align: center;
+    background-color: #f4ecf7  ;
 }
-h2{
+h1{
     text-decoration: wavy;
     text-shadow: 2cm;
     color: purple;
+}
+button{
+    width: 2cm;
+    height: 1.1cm;
+    background-color:#e8daef  ;
+    color:purple ;
+    border-color: white;
+    border-style: ridge;
+    border-radius: 10px;
 }
