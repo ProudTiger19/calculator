@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    background-color: #f4ecf7  ;
+    background-color: #f4ecf7;
+    margin:2%;
 }
 h1{
     text-shadow: 2cm;
@@ -13,5 +14,12 @@ button{
     color:purple ;
     border-color: white;
     border-style: ridge;
-    border-radius: 10px;
+    border-radius: 20%;
+    margin: 0.5%;
+}
+button:hover{
+    background-color: white;
+    border-radius: 35%;
+    width:2.02cm ;
+    height: 1.12cm;
 }
